@@ -1,0 +1,12 @@
+.card{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.profile-img{
+    height: 150px;
+    width: 150px;
+}
